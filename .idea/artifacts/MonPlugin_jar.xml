@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MonPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MonPlugin_jar</output-path>
+    <root id="archive" name="MonPlugin.jar">
+      <element id="module-output" name="MonPlugin" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.20.6-R0.1-SNAPSHOT-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
