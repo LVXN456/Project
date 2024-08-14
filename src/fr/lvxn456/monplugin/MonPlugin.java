@@ -7,4 +7,9 @@ public class MonPlugin extends JavaPlugin {
     public void onEnable() {
         System.out.println("MonPlugin est allumer");
     }
+
+    @Override
+    public void onDisable() {
+        System.out.println("MonPlugin est éteint");
+    }
 }
